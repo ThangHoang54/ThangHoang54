@@ -8,7 +8,7 @@
 
 - [Carpolling System](https://github.com/koromaki88/sed-group15)
   - **Description**: EEET2482 - Software Engineering Design - Group Assignment
-  - **Languge Used**
+  - **Language Used**
    <p align="center">
      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,vscode,cpp"/>
@@ -17,7 +17,7 @@
     
 - [Rental Property Management System v1](https://github.com/ThangHoang54/Rental-Property-Management-System)
   - **Description**: COSC2440 - Futher Programming - A Consold App
-  - **Languge Used**
+  - **Language Used**
    <p align="center">
      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,idea,java"/>
@@ -26,7 +26,7 @@
 
 - [Movie Ticket Reservation System](https://github.com/ThangHoang54/Movie-Ticket-Reservation-System)
   - **Description**: COSC2440 - Futher Programming - Lab Test
-  - **Languge Used**
+  - **Language Used**
    <p align="center">
      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,idea,java,mysql"/>
