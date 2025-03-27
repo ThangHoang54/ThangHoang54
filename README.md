@@ -6,7 +6,7 @@
 
 ## Projects 🛠️
 
-- [Carpolling System](https://github.com/koromaki88/sed-group15)
+### [Carpolling System](https://github.com/koromaki88/sed-group15)
   - **Description**: EEET2482 - Software Engineering Design - Group Assignment
   - **Language Used**
    <p align="center">
@@ -14,8 +14,8 @@
         <img src="https://skillicons.dev/icons?i=git,vscode,cpp"/>
       </a>
     </p>
-
-- [Multi Address Drone Delivery](https://github.com/ThangHoang54/A-Algorithm-for-Multi-Address-Drone-Delivery-in-a-Grid-Based-City-Map)
+    
+### [Multi Address Drone Delivery](https://github.com/ThangHoang54/A-Algorithm-for-Multi-Address-Drone-Delivery-in-a-Grid-Based-City-Map)
   - **Description**: COSC2968 - Foundation of Artificial Intelligence for STEM - Classical AI
   - **Language Used**
    <p align="center">
@@ -24,7 +24,7 @@
       </a>
     </p>
     
-- [Rental Property Management System v1](https://github.com/ThangHoang54/Rental-Property-Management-System)
+### [Rental Property Management System v1](https://github.com/ThangHoang54/Rental-Property-Management-System)
   - **Description**: COSC2440 - Futher Programming - A Consold App
   - **Language Used**
    <p align="center">
@@ -33,7 +33,7 @@
       </a>
     </p>
 
-- [Movie Ticket Reservation System](https://github.com/ThangHoang54/Movie-Ticket-Reservation-System)
+### [Movie Ticket Reservation System](https://github.com/ThangHoang54/Movie-Ticket-Reservation-System)
   - **Description**: COSC2440 - Futher Programming - Lab Test
   - **Language Used**
    <p align="center">
