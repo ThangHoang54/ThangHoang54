@@ -43,7 +43,7 @@
     </p>
 
     
-## Skills ✨
+## Tech Tools ✨
 
 
 ## How to Reach Me 📫
