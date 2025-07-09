@@ -1,7 +1,7 @@
 # Hi there, I'm Hoang Minh Thang 👋
 
 ## About Me ℹ
-Motivated software engineering student at RMIT Vietnam with a passion for AI, robotics, and impactful technology. I aim to become a recognized contributor in my field by taking part in large-scale projects that challenge me to grow and reach new milestones. With a foundation in C, C++, Java and Python, I'm eager to collaborate, learn fast, and contribute to meaningful innovations.
+Motivated software engineering student at RMIT Vietnam with a passion for AI, robotics, and impactful technology. I aim to become a recognized contributor in my field by taking part in large-scale projects that challenge me to grow and reach new milestones.
 
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThangHoang54&hide_border=true&border_radius=5.0&date_format=M%20j%5B%2C%20Y%5D" alt="ThangHoang54" /></a></div>
 
@@ -35,7 +35,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
     </p>
 
 ### [Movie Ticket Reservation System](https://github.com/ThangHoang54/Movie-Ticket-Reservation-System)
-  - **Description**: COSC2440 - Futher Programming - Lab Test
+  - **Description**: COSC2440 - Futher Programming - Lab Test Enhance
   - **Language Used**
    <p align="center">
      <a href="https://skillicons.dev">
