@@ -68,7 +68,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
     </td>
     <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
       <h3><a href="https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8">Rental Property Management System -version2-</a> <small>[Jan 2025]</small></h3>
-      <p><strong>Description:</strong> COSC2440 - Futher Programming - A Consold App </p>
+      <p><strong>Description:</strong> COSC2440 - Futher Programming - Build a backend  </p>
       <p><stronge>Type:</stronge> Group </p>
       <p><strong>Language Used:</strong></p>
       <p align="center">
@@ -81,7 +81,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
   <tr>
     <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
       <h3><a href="https://github.com/ThangHoang54/Rental-Property-Management-System">Rental Property Management System -version1-</a> <small>[Dec 2024]</small></h3>
-      <p><strong>Description:</strong> COSC2440 - Futher Programming - Build a backend </p>
+      <p><strong>Description:</strong> COSC2440 - Futher Programming - A Consold App</p>
       <p><stronge>Type:</stronge> Individual </p>
       <p><strong>Language Used:</strong></p>
       <p align="center">
