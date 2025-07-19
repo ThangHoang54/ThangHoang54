@@ -62,7 +62,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
       <p><strong>Language Used:</strong></p>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,vscode,py"/>
+          <img src="https://skillicons.dev/icons?i=git,vscode,java"/>
         </a>
       </p>
     </td>
