@@ -112,6 +112,6 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
 
 ## How to Reach Me 📫
 <a href="https://github.com/ThangHoang54" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/th%E1%BA%AFng-ho%C3%A0ng-minh-7b3005293/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="www.linkedin.com/in/thanghoangm54" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://discordapp.com/users/1268384490850357298" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
 
