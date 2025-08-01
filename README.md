@@ -1,10 +1,21 @@
-# Hi there, I'm Hoang Minh Thang 👋
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Hoang Minh Thang </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=147438&center=true&width=435&lines=Small+commits%2C+big+dreams" alt="Typing SVG" /></a>
+</p>
 
-## About Me ℹ
+## ℹ &nbsp;About Me 
 Motivated software engineering student at RMIT Vietnam with a passion for AI, robotics, and impactful technology. I aim to become a recognized contributor in my field by taking part in large-scale projects that challenge me to grow and reach new milestones.
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThangHoang54&hide_border=true&border_radius=5.0&date_format=M%20j%5B%2C%20Y%5D" alt="ThangHoang54" /></a></div>
 
-## Main Key Projects 🛠️
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center"><img src="https://streak-stats.demolab.com?user=ThangHoang54" alt="ThangHoang54" /></p>
+<p align="center">
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThangHoang54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThangHoang54&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+## 🛠️ &nbsp;Main Key Projects 
 
 <table>
   <tr>
@@ -35,7 +46,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
 </table>
 
 
-## Artificial Intelligence field 🤖
+## 🤖 &nbsp;Artificial Intelligence field 
 
 <table>
   <tr>
@@ -52,7 +63,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
   </tr>
 </table>
   
-## Others Projects 🔥
+## 🔥 &nbsp;Others Projects 
 
 <table>
   <tr>
@@ -103,15 +114,20 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
   </tr>
 </table>
     
-## Tech Tools ✨
+## ✨ &nbsp;Tech Stack
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,c,cpp,java,python,mysql,postgres,supabase"/>
     </a>
   </p>
 
-## How to Reach Me 📫
+## 📫 &nbsp;How to Reach Me 
 <a href="https://github.com/ThangHoang54" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="www.linkedin.com/in/thanghoangm54" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://discordapp.com/users/1268384490850357298" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
 
+## 🐍 &nbsp;A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
