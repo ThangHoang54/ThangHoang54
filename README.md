@@ -126,7 +126,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
 <a href="www.linkedin.com/in/thanghoangm54" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://discordapp.com/users/1268384490850357298" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
 
-## 🐍 &nbsp;A Snake Eating my Contributions Graph
+## 🐍 &nbsp;A Snake Eating Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
