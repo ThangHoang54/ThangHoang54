@@ -3,10 +3,22 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=147438&center=true&width=435&lines=Small+commits%2C+big+dreams" alt="Typing SVG" /></a>
 </p>
 
-## ℹ &nbsp;About Me 
-Motivated software engineering student at RMIT Vietnam with a passion for AI, robotics, and impactful technology. I aim to become a recognized contributor in my field by taking part in large-scale projects that challenge me to grow and reach new milestones.
+Welcome to my GitHub profile! Here you'll find my journey as a developer, creator, and passionate learner. I believe in open-source collaboration and continuous improvement. 🚀
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🌟 &nbsp;About Me
+
+Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Vietnam with a passion for building impactful technology. My interests span artificial intelligence, robotics, and innovative software solutions that make life easier and more exciting. I thrive on tackling challenging projects, contributing to open-source, and collaborating with talented people worldwide.
+
+- 🎓 **Education:** Software Engineering @ RMIT Vietnam
+- 🤖 **Focus Areas:** Artificial Intelligence, Robotics, Algorithms
+- 🏆 **Goals:** To become a recognized contributor in my field and to develop scalable, meaningful projects
+- 💡 **Philosophy:** Small commits, big dreams—I'm always learning and pushing my boundaries
+- 🌐 **Collaboration:** Open to teamwork, new ideas, and global connections
+- 🧩 **Fun Fact:** I love solving puzzles and automating tasks for efficiency
+
+---
+
+### ⚙️ &nbsp;GitHub Stats
 <p align="center"><img src="https://streak-stats.demolab.com?user=ThangHoang54" alt="ThangHoang54" /></p>
 <p align="center">
   <a href="https://github.com/AVS1508">
@@ -27,7 +39,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
       <p><strong>Language Used:</strong></p>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js"/>
+          <img src="https://skillicons.dev/icons?i=html,css,js"/>
         </a>
       </p>
     </td>
@@ -38,7 +50,7 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
       <p><strong>Language Used:</strong></p>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,idea,java,mysql"/>
+          <img src="https://skillicons.dev/icons?i=java,mysql"/>
         </a>
       </p>
     </td>
@@ -56,63 +68,21 @@ Motivated software engineering student at RMIT Vietnam with a passion for AI, ro
       <p><strong>Language Used:</strong></p>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,vscode,py"/>
+          <img src="https://skillicons.dev/icons?i=py"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
   
-## 🔥 &nbsp;Others Projects 
+## 🔥 &nbsp;Others Notable Projects 
+| Project                                                      | Date      | Description                                                    | Tech Stack                                         |
+|--------------------------------------------------------------|-----------|----------------------------------------------------------------|----------------------------------------------------|
+| [AutoSudoku](https://github.com/ThangHoang54/AutoSudoku)     | May 2025  | Group project: AI-based Sudoku solver for Algorithms & Analysis | ![Java](https://skillicons.dev/icons?i=java)      |
+| [Rental Property Management System v2](https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8) | Jan 2025  | Group backend project for property management | ![Java](https://skillicons.dev/icons?i=java) ![Postgres](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase) |
+| [Rental Property Management System v1](https://github.com/ThangHoang54/Rental-Property-Management-System)  | Dec 2024  | Individual console app for property management| ![Java](https://skillicons.dev/icons?i=java)  |
+| [Carpolling System](https://github.com/koromaki88/sed-group15) | Sep 2024  | Group assignment: carpooling platform in C++    | ![C++](https://skillicons.dev/icons?i=cpp)   |
 
-<table>
-  <tr>
-    <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/AutoSudoku">AutoSudoku</a> <small>[May 2025]</small></h3>
-      <p><strong>Description:</strong> COSC2469 - Algorithms and Analysis - Group Project </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,vscode,java"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8">Rental Property Management System -version2-</a> <small>[Jan 2025]</small></h3>
-      <p><strong>Description:</strong> COSC2440 - Futher Programming - Build a backend  </p>
-      <p><stronge>Type:</stronge> Group </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,idea,java,postgres,supabase"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/Rental-Property-Management-System">Rental Property Management System -version1-</a> <small>[Dec 2024]</small></h3>
-      <p><strong>Description:</strong> COSC2440 - Futher Programming - A Consold App</p>
-      <p><stronge>Type:</stronge> Individual </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,idea,java"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/Than](https://github.com/koromaki88/sed-group15">Carpolling System</a> <small>[Sep 2024]</small></h3>
-      <p><strong>Description:</strong> EEET2482 - Software Engineering Design - Group Assignment </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,vscode,cpp"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
     
 ## ✨ &nbsp;Tech Stack
 <p align="center">
