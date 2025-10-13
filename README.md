@@ -87,7 +87,7 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
 ## ✨ &nbsp;Tech Stack
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,html,css,react,vite,tailwindcss,c,cpp,java,python,fastapi,mysql,postgres,supabase"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,html,css,react,vite,tailwindcss,nextjs,c,cpp,java,python,fastapi,mysql,postgres,supabase"/>
     </a>
   </p>
 
