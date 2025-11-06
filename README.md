@@ -31,6 +31,18 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
 
 <table>
   <tr>
+	<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
+      <h3><a href="https://github.com/ThangHoang54/FlexiFile">FlexiFile</a> <small>[Oct 2025]</small></h3>
+      <p><strong>Description:</strong>
+      Free, web app that lets users convert files across different formats - document, images, audio, and video, quickly and securely.
+      </p>
+      <p><strong>Language Used:</strong></p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,tailwind,js,fastapi,python"/>
+        </a>
+      </p>
+    </td>
     <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
       <h3><a href="https://github.com/ThangHoang54/ByteMaestro">ByteMaestro</a> <small>[July 2025]</small></h3>
       <p><strong>Description:</strong>
@@ -43,7 +55,9 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
         </a>
       </p>
     </td>
-    <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
+  </tr>
+	<tr>
+		<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
       <h3><a href="https://github.com/ThangHoang54/Movie-Ticket-Reservation-System">Movie Ticket Reservation System</a> <small>[Feb 2025]</small></h3>
       <p><strong>Description:</strong> COSC2440 - Further Programming - Lab Test.
       </p>
@@ -54,7 +68,7 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
         </a>
       </p>
     </td>
-  </tr>
+	</tr>
 </table>
 
 
