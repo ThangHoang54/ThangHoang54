@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here you'll find my journey as a developer, creato
 
 ## 🌟 &nbsp;About Me
 
-Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Vietnam with a passion for building impactful technology. My interests span artificial intelligence, robotics, and innovative software solutions that make life easier and more exciting. I thrive on tackling challenging projects, contributing to open-source, and collaborating with talented people worldwide.
+Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Vietnam with a passion for building impactful technology. My interests span artificial intelligence, robotics, and innovative software solutions that make life easier and more exciting. I thrive on tackling challenging projects and collaborating with talented people worldwide.
 
 - 🎓 **Education:** Software Engineering @ RMIT Vietnam
 - 🤖 **Focus Areas:** Artificial Intelligence, Robotics, Algorithms
