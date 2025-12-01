@@ -77,7 +77,7 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
 <table>
   <tr>
 	<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/Predator-Prey-AI-Simulation">Predator-Prey-AI-Simulation</a> <small>[Aug 2024]</small></h3>
+      <h3><a href="https://github.com/ThangHoang54/Predator-Prey-AI-Simulation">Predator-Prey-AI-Simulation</a> <small>[Nov 2025]</small></h3>
       <p><strong>Description:</strong> COSC3066 - Games and AI Techniques - Steering Behaviours and FSMs </p>
       <p><strong>Language Used:</strong></p>
       <p align="center">
