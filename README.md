@@ -77,6 +77,16 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
 <table>
   <tr>
 	<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
+      <h3><a href="https://github.com/ThangHoang54/A-Pathfinding-CarloConnect">A*-Pathfinding-CarloConnect</a> <small>[Dec 2025]</small></h3>
+      <p><strong>Description:</strong> COSC3066 - Games and AI Techniques - PathFinding and MCTS </p>
+      <p><strong>Language Used:</strong></p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py"/>
+        </a>
+      </p>
+    </td>
+	<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
       <h3><a href="https://github.com/ThangHoang54/Predator-Prey-AI-Simulation">Predator-Prey-AI-Simulation</a> <small>[Nov 2025]</small></h3>
       <p><strong>Description:</strong> COSC3066 - Games and AI Techniques - Steering Behaviours and FSMs </p>
       <p><strong>Language Used:</strong></p>
@@ -86,6 +96,8 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
         </a>
       </p>
     </td>
+</tr>
+<tr>
     <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
       <h3><a href="https://github.com/ThangHoang54/A-Algorithm-for-Multi-Address-Drone-Delivery-in-a-Grid-Based-City-Map">Multi Address Drone Deliver</a> <small>[Aug 2024]</small></h3>
       <p><strong>Description:</strong> COSC2968 - Foundation of Artificial Intelligence for STEM - Classical AI </p>
