@@ -12,7 +12,7 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
 - 🎓 **Education:** Software Engineering @ RMIT Vietnam
 - 🤖 **Focus Areas:** Artificial Intelligence, Robotics, Algorithms
 - 🏆 **Goals:** To become a recognized contributor in my field and to develop scalable, meaningful projects
-- 💡 **Philosophy:** Small commits, big dreams—I'm always learning and pushing my boundaries
+- 💡 **Philosophy:** Small commits, big dreams. I'm always learning and pushing my boundaries
 - 🌐 **Collaboration:** Open to teamwork, new ideas, and global connections
 - 🧩 **Fun Fact:** I love solving puzzles and automating tasks for efficiency
 
@@ -46,7 +46,7 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
     <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
       <h3><a href="https://github.com/ThangHoang54/ByteMaestro">ByteMaestro</a> <small>[July 2025]</small></h3>
       <p><strong>Description:</strong>
-      Built a simple in-browser code editor supporting five programming languages with syntax highlighting, auto indentation, and smooth editing.
+      Simple in-browser code editor supporting five programming languages with syntax highlighting, auto indentation, and smooth editing.
       </p>
       <p><strong>Language Used:</strong></p>
       <p align="center">
@@ -114,10 +114,11 @@ Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Viet
 ## 🔥 &nbsp;Others Notable Projects 
 | Project                                                      | Date      | Description                                                    | Tech Stack                                         |
 |--------------------------------------------------------------|-----------|----------------------------------------------------------------|----------------------------------------------------|
+| [**ResumDex**](https://github.com/ThangHoang54/resumedex) | Jan 2026 | A serverless, AI-powered Applicant Tracking System (ATS) and resume analyzer | ![TS](https://skillicons.dev/icons?i=ts) ![JS](https://skillicons.dev/icons?i=js) ![Vercel](https://skillicons.dev/icons?i=vercel)  |
+| [**WinNews**](https://github.com/ThangHoang54/winnews-time) | Dec 2025 |  Modern smart newspaper agent web page | ![TS](https://skillicons.dev/icons?i=ts) ![Vercel](https://skillicons.dev/icons?i=vercel) |
 | [AutoSudoku](https://github.com/ThangHoang54/AutoSudoku)     | May 2025  | Group project: AI-based Sudoku solver for Algorithms & Analysis | ![Java](https://skillicons.dev/icons?i=java)      |
 | [Rental Property Management System v2](https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8) | Jan 2025  | Group backend project for property management | ![Java](https://skillicons.dev/icons?i=java) ![Postgres](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase) |
-| [Rental Property Management System v1](https://github.com/ThangHoang54/Rental-Property-Management-System)  | Dec 2024  | Individual console app for property management| ![Java](https://skillicons.dev/icons?i=java)  |
-| [Carpolling System](https://github.com/koromaki88/sed-group15) | Sep 2024  | Group assignment: carpooling platform in C++    | ![C++](https://skillicons.dev/icons?i=cpp)   |
+
 
     
 ## ✨ &nbsp;Tech Stack
