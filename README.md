@@ -3,11 +3,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=147438&center=true&width=435&lines=Small+commits%2C+big+dreams" alt="Typing SVG" /></a>
 </p>
 
-Welcome to my GitHub profile! Here you'll find my journey as a developer, creator, and passionate learner. I believe in open-source collaboration and continuous improvement. 🚀
+Welcome to my GitHub profile! Here you'll find my journey as a developer, creator, and passionate learner. I believe in open-source collaboration and continuous improvement. 
 
 ## 🌟 &nbsp;About Me
 
-Hi, I'm Hoang Minh Thang—a motivated software engineering student at RMIT Vietnam with a passion for building impactful technology. My interests span artificial intelligence, robotics, and innovative software solutions that make life easier and more exciting. I thrive on tackling challenging projects and collaborating with talented people worldwide.
+Hi, I'm Hoang Minh Thang, a motivated software engineering student at RMIT Vietnam with a passion for building impactful technology. My interests span artificial intelligence, robotics, and innovative software solutions that make life easier and more exciting. I thrive on tackling challenging projects and collaborating with talented people worldwide.
 
 - 🎓 **Education:** Software Engineering @ RMIT Vietnam
 - 🤖 **Focus Areas:** Artificial Intelligence, Robotics, Algorithms
