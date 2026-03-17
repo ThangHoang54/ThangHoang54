@@ -134,8 +134,10 @@ Hi, I'm Hoang Minh Thang, a motivated software engineering student at RMIT Vietn
 <a href="https://discordapp.com/users/1268384490850357298" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
 
 ## 🐍 &nbsp;A Snake Eating Contributions Graph
-	
-<div align = "center">
-	<img src="https://github.com/ThangHoang54/ThangHoang54/blob/main/assets/github-snake.svg" />
+<div align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg">
+	  <img alt="GitHub Contribution Grid Snake" src="assets/github-snake.svg">
+	</picture>
 </div>
-
