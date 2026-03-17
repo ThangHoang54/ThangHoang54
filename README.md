@@ -136,6 +136,6 @@ Hi, I'm Hoang Minh Thang, a motivated software engineering student at RMIT Vietn
 ## 🐍 &nbsp;A Snake Eating Contributions Graph
 	
 <div align = "center">
-	<img src="https://github.com/ThangHoang54/ThangHoang54/blob/output/github-snake.svg" />
+	<img src="https://github.com/ThangHoang54/ThangHoang54/blob/main/assets/github-snake.svg" />
 </div>
 
