@@ -3,10 +3,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Runs at 00:00 (midnight) every Sunday
+    - cron: "0 0 * * 0"
   
   workflow_dispatch:
 
+# Grant the action permission to write back to your repository
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
