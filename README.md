@@ -117,7 +117,7 @@ Hi, I'm Hoang Minh Thang, a motivated software engineering student at RMIT Vietn
 | [**ResumDex**](https://github.com/ThangHoang54/resumedex) | Jan 2026 | A serverless, AI-powered Applicant Tracking System (ATS) and resume analyzer | ![TS](https://skillicons.dev/icons?i=ts) ![JS](https://skillicons.dev/icons?i=js) ![Vercel](https://skillicons.dev/icons?i=vercel)  |
 | [**WinNews**](https://github.com/ThangHoang54/winnews-time) | Dec 2025 |  Modern smart newspaper agent web page | ![TS](https://skillicons.dev/icons?i=ts) ![Vercel](https://skillicons.dev/icons?i=vercel) |
 | [AutoSudoku](https://github.com/ThangHoang54/auto-sudoku)     | May 2025  | Group project: AI-based Sudoku solver for Algorithms & Analysis | ![Java](https://skillicons.dev/icons?i=java)      |
-| [Rental Property Management System v2](https://github.com/RMIT-Vietnam-Teaching/rental-property-management-system-v2) | Jan 2025  | Group backend project for property management | ![Java](https://skillicons.dev/icons?i=java) ![Postgres](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase) |
+| [Rental Property Management System v2](https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8) | Jan 2025  | Group backend project for property management | ![Java](https://skillicons.dev/icons?i=java) ![Postgres](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase) |
 
 
     
