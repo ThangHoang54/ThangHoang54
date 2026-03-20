@@ -1,9 +1,15 @@
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Hoang Minh Thang </h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=147438&center=true&width=435&lines=Small+commits%2C+big+dreams" alt="Typing SVG" /></a>
-</p>
+<div align="center">
 
-Welcome to my GitHub profile! Here you'll find my journey as a developer, creator, and passionate learner. I believe in open-source collaboration and continuous improvement. 
+# Hi, I'm Hoang Minh Thang 👋
+
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;AI+%26+Robotics+Enthusiast;Full-Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)-->
+
+[![GitHub followers](https://img.shields.io/github/followers/ThangHoang54?style=for-the-badge&logo=github&color=14B8A6)](https://github.com/ThangHoang54)
+[![Profile Views](https://komarev.com/ghpvc/?username=ThangHoang54&style=for-the-badge&color=14B8A6)](https://github.com/ThangHoang54)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanghoangm54)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/1268384490850357298)
+
+</div>
 
 ## 🌟 &nbsp;About Me
 
@@ -16,128 +22,70 @@ Hi, I'm Hoang Minh Thang, a motivated software engineering student at RMIT Vietn
 - 🌐 **Collaboration:** Open to teamwork, new ideas, and global connections
 - 🧩 **Fun Fact:** I love solving puzzles and automating tasks for efficiency
 
----
+## ⚙️&nbsp; GitHub Stats
 
-### ⚙️ &nbsp;GitHub Stats
-<p align="center"><img src="https://streak-stats.demolab.com?user=ThangHoang54" alt="ThangHoang54" /></p>
-<p align="center">
-  <a href="https://github.com/AVS1508">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThangHoang54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThangHoang54&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<div align="center">
 
-## 🛠️ &nbsp;Main Key Projects 
+![Streak Stats](https://streak-stats.demolab.com?user=ThangHoang54&theme=algolia&hide_border=true&border_radius=10)
 
-<table>
-  <tr>
-	<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/flexifile">FlexiFile</a> <small>[Oct 2025]</small></h3>
-      <p><strong>Description:</strong>
-      Free, web app that lets users convert files across different formats - document, images, audio, and video, quickly and securely.
-      </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,tailwind,js,fastapi,python,docker"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/bytemaestro">ByteMaestro</a> <small>[July 2025]</small></h3>
-      <p><strong>Description:</strong>
-      Simple in-browser code editor supporting five programming languages with syntax highlighting, auto indentation, and smooth editing.
-      </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-	<tr>
-		<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/movie-ticket-reservation-system">Movie Ticket Reservation System</a> <small>[Feb 2025]</small></h3>
-      <p><strong>Description:</strong> COSC2440 - Further Programming - Lab Test.
-      </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,mysql"/>
-        </a>
-      </p>
-    </td>
-	</tr>
-</table>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThangHoang54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThangHoang54&layout=compact&langs_count=8&theme=algolia&hide_border=true&border_radius=10" height="165"/>
 
+</div>
 
-## 🤖 &nbsp;Artificial Intelligence field 
+## 🛠️ &nbsp;Main Key Projects
 
-<table>
-  <tr>
-	<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/astar-pathfinding-carloconnect">A*-Pathfinding-CarloConnect</a> <small>[Dec 2025]</small></h3>
-      <p><strong>Description:</strong> COSC3066 - Games and AI Techniques - PathFinding and MCTS </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py"/>
-        </a>
-      </p>
-    </td>
-	<td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/predator-prey-ai-simulation">Predator-Prey-AI-Simulation</a> <small>[Nov 2025]</small></h3>
-      <p><strong>Description:</strong> COSC3066 - Games and AI Techniques - Steering Behaviours and FSMs </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py"/>
-        </a>
-      </p>
-    </td>
-</tr>
-<tr>
-    <td width="50%" style="border:1px solid #ccc; border-radius:8px; padding:16px; vertical-align:top">
-      <h3><a href="https://github.com/ThangHoang54/multidrop-drone-astar">Multi Address Drone Deliver</a> <small>[Aug 2024]</small></h3>
-      <p><strong>Description:</strong> COSC2968 - Foundation of Artificial Intelligence for STEM - Classical AI </p>
-      <p><strong>Language Used:</strong></p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-  
-## 🔥 &nbsp;Others Notable Projects 
-| Project                                                      | Date      | Description                                                    | Tech Stack                                         |
-|--------------------------------------------------------------|-----------|----------------------------------------------------------------|----------------------------------------------------|
-| [**ResumDex**](https://github.com/ThangHoang54/resumedex) | Jan 2026 | A serverless, AI-powered Applicant Tracking System (ATS) and resume analyzer | ![TS](https://skillicons.dev/icons?i=ts) ![JS](https://skillicons.dev/icons?i=js) ![Vercel](https://skillicons.dev/icons?i=vercel)  |
-| [**WinNews**](https://github.com/ThangHoang54/winnews-time) | Dec 2025 |  Modern smart newspaper agent web page | ![TS](https://skillicons.dev/icons?i=ts) ![Vercel](https://skillicons.dev/icons?i=vercel) |
-| [AutoSudoku](https://github.com/ThangHoang54/auto-sudoku)     | May 2025  | Group project: AI-based Sudoku solver for Algorithms & Analysis | ![Java](https://skillicons.dev/icons?i=java)      |
-| [Rental Property Management System v2](https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8) | Jan 2025  | Group backend project for property management | ![Java](https://skillicons.dev/icons?i=java) ![Postgres](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase) |
+| Project | Description | Stack |
+|---|---|---|
+| [**FlexiFile**](https://github.com/ThangHoang54/flexifile) `Oct 2025` | Free web app for converting files across document, image, audio & video formats — quickly and securely | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) [![DOCKER](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
+| [**ByteMaestro**](https://github.com/ThangHoang54/bytemaestro) `Jul 2025` | In-browser code editor supporting 5 languages with syntax highlighting, auto-indentation & smooth UX | [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |
+| [**Movie Ticket Reservation System**](https://github.com/ThangHoang54/movie-ticket-reservation-system) `Feb 2025` | COSC2440 Further Programming — full ticket reservation system lab project | [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) |
 
+## 🤖 &nbsp;Artificial Intelligence
 
-    
+| Project | Description | Stack |
+|---|---|---|
+| [**A\*-Pathfinding-CarloConnect**](https://github.com/ThangHoang54/astar-pathfinding-carloconnect) `Dec 2025` | COSC3066 — Pathfinding with A* and Monte Carlo Tree Search | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
+| [**Predator-Prey AI Simulation**](https://github.com/ThangHoang54/predator-prey-ai-simulation) `Nov 2025` | COSC3066 — Steering behaviours and finite state machines | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
+| [**Multi-Address Drone Delivery**](https://github.com/ThangHoang54/multidrop-drone-astar) `Aug 2024` | COSC2968 — Classical AI with A* for multi-drop drone routing | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
+
+## 🔥 &nbsp;Other Notable Projects
+
+| Project | Date | Description | Stack |
+|---|---|---|---|
+| [**ResumDex**](https://github.com/ThangHoang54/resumedex) | Jan 2026 | Serverless AI-powered ATS & resume analyzer | [![TS](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
+| [**WinNews**](https://github.com/ThangHoang54/winnews-time) | Dec 2025 | Modern smart newspaper agent web app | [![TS](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
+| [**AutoSudoku**](https://github.com/ThangHoang54/auto-sudoku) | May 2025 | Group project: AI-based Sudoku solver for Algorithms & Analysis | [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |
+| [**Rental Property Management v2**](https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8) | Jan 2025 | Group backend project for property management system | [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev) |
+
 ## ✨ &nbsp;Tech Stack
-<p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,webstorm,html,css,js,ts,react,vite,tailwindcss,nextjs,c,cpp,java,python,fastapi,mysql,postgres,supabase,vercel"/>
-    </a>
-  </p>
 
-## 📫 &nbsp;How to Reach Me 
-<a href="https://github.com/ThangHoang54" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="www.linkedin.com/in/thanghoangm54" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://discordapp.com/users/1268384490850357298" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
+<div align="center">
 
-## 🐍 &nbsp;A Snake Eating Contributions Graph
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,webstorm,html,css,js,ts,react,vite,tailwindcss,nextjs,c,cpp,java,python,fastapi,mysql,postgres,supabase,vercel&perline=12)](https://skillicons.dev)
+
+</div>
+
+## 📫 &nbsp;Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ThangHoang54-181717?style=for-the-badge&logo=github)](https://github.com/ThangHoang54)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thanghoangm54-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanghoangm54)
+[![Discord](https://img.shields.io/badge/Discord-Message_Me-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/1268384490850357298)
+
+</div>
+
+## 🐍 &nbsp;Contribution Snake
+
 <div align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg">
 	  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg">
 	  <img alt="GitHub Contribution Grid Snake" src="assets/github-snake.svg">
 	</picture>
+</div>
+
+<div align="center">
+  <sub>⚡ Built with passion from Ho Chi Minh City, Vietnam 🇻🇳</sub>
 </div>
