@@ -37,32 +37,33 @@ Hi, I'm Hoang Minh Thang, a motivated software engineering student at RMIT Vietn
 
 | Project | Description | Stack |
 |---|---|---|
-| [**FlexiFile**](https://flexifile.vercel.app) `Oct 2025` | Free web app for converting files across document, image, audio & video formats — quickly and securely | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) [![DOCKER](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
-| [**ByteMaestro**](https://bytemaestro.netlify.app) `Jul 2025` | In-browser code editor supporting 5 languages with syntax highlighting, auto-indentation & smooth UX | [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |
-| [**Movie Ticket Reservation System**](https://github.com/ThangHoang54/movie-ticket-reservation-system) `Feb 2025` | COSC2440 Further Programming — full ticket reservation system lab project | [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) |
+| [**TicTacToang**](https://tictactoang.vercel.app/) `May 2026` |  A high-performance, modern web platform designed to bring the classic game of Tic-Tac-Toe into the digital era. (Group project) | ![](https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,jest,mongodb,vite) |
+| [**FlexiFile**](https://flexifile.vercel.app) `Oct 2025` | Free web app for converting files across document, image, audio & video formats - quickly and securely | ![](https://skillicons.dev/icons?i=react,tailwind,vite,js,py,fastapi,docker) |
+| [**ByteMaestro**](https://bytemaestro.netlify.app) `Jul 2025` | In-browser code editor supporting 5 languages with syntax highlighting, auto-indentation & smooth UX | ![](https://skillicons.dev/icons?i=html,css,js) |
+| [**Movie Ticket Reservation System**](https://github.com/ThangHoang54/movie-ticket-reservation-system) `Feb 2025` | COSC2440 Further Programming - full ticket reservation system lab project | ![](https://skillicons.dev/icons?i=java,mysql) |
 
 ## 🤖 &nbsp;Artificial Intelligence
 
 | Project | Description | Stack |
 |---|---|---|
-| [**A\*-Pathfinding-CarloConnect**](https://github.com/ThangHoang54/astar-pathfinding-carloconnect) `Dec 2025` | COSC3066 — Pathfinding with A* and Monte Carlo Tree Search | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
-| [**Predator-Prey AI Simulation**](https://github.com/ThangHoang54/predator-prey-ai-simulation) `Nov 2025` | COSC3066 — Steering behaviours and finite state machines | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
-| [**Multi-Address Drone Delivery**](https://github.com/ThangHoang54/multidrop-drone-astar) `Aug 2024` | COSC2968 — Classical AI with A* for multi-drop drone routing | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
+| [**A\*-Pathfinding-CarloConnect**](https://github.com/ThangHoang54/astar-pathfinding-carloconnect) `Dec 2025` | COSC3066 - Pathfinding with A* and Monte Carlo Tree Search | ![](https://skillicons.dev/icons?i=python) |
+| [**Predator-Prey AI Simulation**](https://github.com/ThangHoang54/predator-prey-ai-simulation) `Nov 2025` | COSC3066 - Steering behaviours and finite state machines | ![](https://skillicons.dev/icons?i=python) |
+| [**Multi-Address Drone Delivery**](https://github.com/ThangHoang54/multidrop-drone-astar) `Aug 2024` | COSC2968 - Classical AI with A* for multi-drop drone routing | ![](https://skillicons.dev/icons?i=python) |
 
 ## 🔥 &nbsp;Other Notable Projects
 
-| Project | Date | Description | Stack |
-|---|---|---|---|
-| [**ResumDex**](resume-dex.vercel.app) | Jan 2026 | Serverless AI-powered ATS & resume analyzer | [![TS](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
-| [**WinNews**](winnews-time.vercel.app) | Dec 2025 | Modern smart newspaper agent web app | [![TS](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
-| [**AutoSudoku**](https://github.com/ThangHoang54/auto-sudoku) | May 2025 | Group project: AI-based Sudoku solver for Algorithms & Analysis | [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |
-| [**Rental Property Management v2**](https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8) | Jan 2025 | Group backend project for property management system | [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev) |
+| Project | Description | Stack |
+|---|---|---|
+| [**ResumDex**](resume-dex.vercel.app) `Jan 2026` | Serverless AI-powered ATS & resume analyzer | ![](https://skillicons.dev/icons?i=react,tailwind,vite,js,ts) |
+| [**WinNews**](winnews-time.vercel.app) `Dec 2025` | Modern smart newspaper agent web app | ![](https://skillicons.dev/icons?i=react,tailwind,vite,ts) |
+| [**AutoSudoku**](https://github.com/ThangHoang54/auto-sudoku) `May 2025` | Group project: AI-based Sudoku solver for Algorithms & Analysis | ![](https://skillicons.dev/icons?i=java) |
+| [**Rental Property Management v2**](https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8) `Jan 2025` | Group backend project for property management system | ![](https://skillicons.dev/icons?i=java,postgres,supabase) |
 
 ## ✨ &nbsp;Tech Stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,webstorm,html,css,js,ts,react,vite,tailwindcss,nextjs,c,cpp,java,python,fastapi,mysql,postgres,supabase,vercel&perline=12)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,webstorm,html,css,js,ts,react,vite,tailwindcss,nextjs,c,cpp,java,python,fastapi,nodejs,express,mysql,postgres,mongodb,supabase,jest,docker,vercel&perline=12)
 
 </div>
 
