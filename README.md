@@ -37,7 +37,7 @@ Hi, I'm Hoang Minh Thang, a motivated software engineering student at RMIT Vietn
 
 | Project | Description | Stack |
 |---|---|---|
-| [**TicTacToang**](https://tictactoang.vercel.app/) `May 2026` |  A high-performance, modern web platform designed to bring the classic game of Tic-Tac-Toe into the digital era. (Group project) | ![](https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,jest,mongodb,vite) |
+| [**TicTacToang**](https://tictactoang.vercel.app/) `May 2026` |  A high-performance, modern web platform designed to bring the classic game of Tic-Tac-Toe into the digital era. (Group project) | ![](https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,jest,mongodb) |
 | [**FlexiFile**](https://flexifile.vercel.app) `Oct 2025` | Free web app for converting files across document, image, audio & video formats - quickly and securely | ![](https://skillicons.dev/icons?i=react,tailwind,js,py,fastapi,docker) |
 | [**ByteMaestro**](https://bytemaestro.netlify.app) `Jul 2025` | In-browser code editor supporting 5 languages with syntax highlighting, auto-indentation & smooth UX | ![](https://skillicons.dev/icons?i=html,css,js) |
 | [**Movie Ticket Reservation System**](https://github.com/ThangHoang54/movie-ticket-reservation-system) `Feb 2025` | COSC2440 Further Programming - full ticket reservation system lab project | ![](https://skillicons.dev/icons?i=java,mysql) |
@@ -54,8 +54,8 @@ Hi, I'm Hoang Minh Thang, a motivated software engineering student at RMIT Vietn
 
 | Project | Description | Stack |
 |---|---|---|
-| [**ResumDex**](resume-dex.vercel.app) `Jan 2026` | Serverless AI-powered ATS & resume analyzer | ![](https://skillicons.dev/icons?i=react,tailwind,vite,js,ts) |
-| [**WinNews**](winnews-time.vercel.app) `Dec 2025` | Modern smart newspaper agent web app | ![](https://skillicons.dev/icons?i=react,tailwind,vite,ts) |
+| [**ResumDex**](resume-dex.vercel.app) `Jan 2026` | Serverless AI-powered ATS & resume analyzer | ![](https://skillicons.dev/icons?i=react,tailwind,js,ts) |
+| [**WinNews**](winnews-time.vercel.app) `Dec 2025` | Modern smart newspaper agent web app | ![](https://skillicons.dev/icons?i=react,tailwind,ts) |
 | [**AutoSudoku**](https://github.com/ThangHoang54/auto-sudoku) `May 2025` | Group project: AI-based Sudoku solver for Algorithms & Analysis | ![](https://skillicons.dev/icons?i=java) |
 | [**Rental Property Management v2**](https://github.com/RMIT-Vietnam-Teaching/further-programming-assignment-2-build-a-backend-sg-group8) `Jan 2025` | Group backend project for property management system | ![](https://skillicons.dev/icons?i=java,postgres,supabase) |
 
